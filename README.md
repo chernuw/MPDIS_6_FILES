@@ -5,7 +5,7 @@
 File - New... - Project from Version Control - GitHub.
 ```
 
-Git Repository URL: https://github.com/chernuw/MPDIS_3_buttons.git
+Git Repository URL: https://github.com/chernuw/MPDIS_6_FILES.git
 
 ПРАКТИЧЕСКОЕ ЗАНЯТИЕ  №6. Работа с файлами
 
